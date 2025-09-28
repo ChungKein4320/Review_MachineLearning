@@ -1,0 +1,13 @@
+## Mô tả Bộ Dữ Liệu
+Bộ dữ liệu này chứa thông tin lịch sử liên quan đến doanh số bán xe BMW, với mục tiêu xây dựng mô hình phân loại để dự đoán liệu một giao dịch bán xe có thành công hay không dựa trên các đặc trưng chính.
+
+Nó bao gồm thông tin như thông số kỹ thuật của xe (ví dụ: loại nhiên liệu, dung tích động cơ, giá bán), các thuộc tính liên quan đến khách hàng (ví dụ: nhóm tuổi, mức thu nhập), và kết quả bán hàng (ví dụ: đã bán hoặc chưa bán).
+
+Bộ dữ liệu này phù hợp cho việc huấn luyện và đánh giá các mô hình học có giám sát cho nhiệm vụ phân loại, cũng như cho việc phân tích dữ liệu khám phá trong lĩnh vực bán hàng ô tô.
+
+Bộ dữ liệu tổng hợp hoặc đã được ẩn danh này được thiết kế nhằm mục đích giáo dục và nghiên cứu.
+
+## Hướng dẫn làm bài:
+1. Sử dụng Pipeline để train mô hình
+2. Lưu mô hình sau khi train và các thông tin mô tả vào file model.pkl
+3. Tập tin .ipynb

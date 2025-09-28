@@ -1,0 +1,12 @@
+Chủ đề: Classification
+
+- Đọc, tìm hiểu và chạy code
+
+- Bài tập luyện tập:
+
+	+ Thử thay thế các hàm chuyển đổi nhãn thủ công bằng các hàm của scikit learn.
+
+	+ Tìm hiểu các hàm tính metrics của classfication hỗ trợ bởi scikit learn. Sử dụng chúng (nếu có) thay thế các hàm tính thủ công 
+
+- Sử dụng các mô hình để classify 2 datasets được cung cấp
+
